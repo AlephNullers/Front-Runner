@@ -179,7 +179,7 @@ manager;
         //var outputtoken = await pancakeRouter.methods.getAmountOut(estimatedInput, pool_info.input_volumn.toString(), pool_info.output_volumn.toString()).call();
         //swap(newGasPrice, gasLimit, outputtoken, realInput, 0, out_token_address, user_wallet, transaction);
 
-        //console.log("wait until the honest transaction is done...", transaction['hash']);
+        //console.log("wait until the lol transaction is done...", transaction['hash']);
 
         //while (await isPending(transaction['hash'])) {
         
